@@ -18,7 +18,7 @@
   font-size: 75px;
   color: var(--white);
   font-family: 'aref-bold';
-  background: linear-gradient(90deg, #198754, #000000, #198754);
+  background: linear-gradient(90deg, #198754, #ffffff, #198754);
   background-size: 200% auto;
   background-clip: text;
   -webkit-background-clip: text;
