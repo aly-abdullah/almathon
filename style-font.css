@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'aref-ink-regular';
+    src: url(/fonts/ArefRuqaaInk-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'aref-ink-bold';
+    src: url(/fonts/ArefRuqaaInk-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'aref-regular';
+    src: url(/fonts/ArefRuqaa-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'aref-bold';
+    src: url(/fonts/ArefRuqaa-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'default-1';
+    src: url(/fonts/Rakkas-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'default-2';
+    src: url(/fonts/Tajawal-Regular.ttf) format('truetype');
+}
