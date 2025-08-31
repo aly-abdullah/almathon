@@ -13,7 +13,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: url("/360_F_269466371_ohn2lpKdBu9ZHs4AkVxx7eVamIli3JDi.jpg") repeat;
+  background: url("360_F_269466371_ohn2lpKdBu9ZHs4AkVxx7eVamIli3JDi.jpg") repeat;
   background-size: auto; /* keeps original size of the pattern tile */
 }
 
@@ -109,4 +109,5 @@ footer {
     display: flex;
     gap: 5px;
     margin-top: 5px;
+
 }
