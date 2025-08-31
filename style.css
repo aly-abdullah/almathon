@@ -9,7 +9,7 @@
 .navbar {
   margin: 0;
   padding: 0;
-  background: url("/green-bg.png") repeat;
+  background: url("green-bg.png") repeat;
   background-size: auto; /* keeps original size of the pattern tile */
 }
 
@@ -43,3 +43,4 @@
     color: #FFF7EC; /* reveal final color while keeping gradient in place */
   }
 }
+
