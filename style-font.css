@@ -1,29 +1,19 @@
 @font-face {
-    font-family: 'aref-ink-regular';
-    src: url(ArefRuqaaInk-Regular.ttf) format('truetype');
+    font-family: 'almarai-bold';
+    src: url(Almarai-Bold.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: 'aref-ink-bold';
-    src: url(ArefRuqaaInk-Bold.ttf) format('truetype');
+    font-family: 'almarai-extra-bold';
+    src: url(Almarai-ExtraBold.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: 'aref-regular';
-    src: url(ArefRuqaa-Regular.ttf) format('truetype');
+    font-family: 'almarai-light';
+    src: url(Almarai-Light.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: 'aref-bold';
-    src: url(ArefRuqaa-Bold.ttf) format('truetype');
-}
-
-@font-face {
-    font-family: 'default-1';
-    src: url(Rakkas-Regular.ttf) format('truetype');
-}
-
-@font-face {
-    font-family: 'default-2';
-    src: url(Tajawal-Regular.ttf) format('truetype');
+    font-family: 'almarai-regular';
+    src: url(Almarai-Regular.ttf) format('truetype');
 }

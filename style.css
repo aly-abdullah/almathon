@@ -9,7 +9,7 @@
 .navbar {
   margin: 0;
   padding: 0;
-  background: url("green-bg.png") repeat;
+  background: url("/green-bg.png") repeat;
   background-size: auto; /* keeps original size of the pattern tile */
 }
 
@@ -22,8 +22,8 @@
 }
 
 .navbar-title {
-  font-size: 75px;
-  font-family: 'aref-bold';
+  font-size: 55px;
+  font-family: 'almarai-bold';
   color: #FFF7EC; /* final color */
   background: linear-gradient(90deg, #C0C0C0, #FFF7EC, #C0C0C0); /* silver shine */
   background-size: 200% 100%;
@@ -43,4 +43,3 @@
     color: #FFF7EC; /* reveal final color while keeping gradient in place */
   }
 }
-
